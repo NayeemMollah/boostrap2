@@ -1,0 +1,81 @@
+/* Large devices (desktops, less than 1200px) */
+@media (max-width: 1199.98px) {  }
+
+ /* Medium devices (tablets, less than 992px) */
+ @media (max-width: 991.98px) { }
+
+/* Small devices (landscape phones, less than 768px) */
+@media (max-width: 767.98px) {}
+
+ /* Extra small devices (portrait phones, less than 576px) */
+ @media (max-width: 575.98px) {
+    .launch img {
+        height: 500px;
+        width: 304px;
+    }
+    .nav-item{
+        text-align: center;
+        background: red;
+    }
+   
+    .bannerpart {
+        padding-top: 50px;
+    }
+    .bannerpart-text h1 {
+        font-size: 32px;
+        padding-top: 1px;
+        text-align: center;
+    }
+    .bannerpart-text p {
+        font-size: 13px;
+        text-align: center;
+    }
+
+    .servicepart {
+        padding-bottom: 1px;
+        padding-top: 1px;
+    }
+    .commontext h3 {
+        font-size: 25px;
+    }
+    .easy {
+        text-align: center;
+        padding: 30px;
+        background-color: #FFFFFF;
+    }
+    .launchhh h3 {
+        font-size: 22px;
+        text-align: center;
+    }
+    .launchhh p {
+        font-size: 12px;
+        text-align: center;
+       
+    }
+    .launchhh h3 {
+        font-size: 13px;
+        
+    }
+    .Carefully{
+        text-align: center;
+    }
+    .carefullayy{
+        text-align: center;
+    }
+    .launchhh p {
+        font-size: 9px;
+        text-align: center;
+    }
+    .launchpart {
+       
+        padding-bottom: 5px;
+    }
+    .launch img {
+        padding-top: 10px;
+        
+    }
+    .appshowcase h3 {
+        font-size: 38px;
+        
+    }
+ }

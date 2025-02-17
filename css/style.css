@@ -1,0 +1,192 @@
+/* common css start  */
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+}
+a,a:hover{
+    text-decoration: none;
+    display: inline-block;
+}
+ul,ol{
+    list-style-type: none;
+}
+/* common css end */
+
+/* header part start  */
+.nav-link{
+    font-size: 18px;
+    font-family: "Open Sans", serif;
+    font-weight: 600;
+    color: #29313D;
+
+}
+.commonbtn{
+padding: 20px 30px;
+background-color: #8454F5;
+font-size: 18px;
+font-family: "Nunito", serif;
+font-weight: 600;
+color: #FFFFFF;
+border-radius: 18px;
+}
+/* header part end */
+
+/* banner part start  */
+.bannerpart{
+    width: 100%;
+    padding-top: 100px;
+    background-image: url(../images/received_1157596866072415.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding-bottom: 100px;
+}
+.bannerpart-text h1{
+    font-size: 47px;
+    font-family: "Open Sans", serif;
+    font-weight: 800;
+    color: #1D354F;
+    padding-bottom: 25px;
+    padding-top: 45px;
+}
+.bannerpart-text p{
+    font-size: 15px;
+    font-family: "Nunito", serif;
+    font-weight: 400;
+    color: #29313D;
+    padding-bottom: 25px;
+   
+}
+/* banner part end  */
+
+/* service part start  */
+.servicepart{
+    padding-bottom: 50px;
+    padding-top: 100px;
+}
+.commontext{
+    text-align: center;
+}
+.commontextt{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.commontext h3{
+    font-size: 45px;
+    font-family: "Poppins", serif;
+    font-weight: 600;
+   
+}
+.easy{
+  padding: 30px;
+  background-color: #FFFFFF;
+
+}
+.easy:hover{
+    -webkit-box-shadow: 0px 0px 1px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 0px 0px 1px 0px rgba(0,0,0,0.75);
+box-shadow: 0px 0px 1px 0px rgba(0,0,0,0.75);
+}
+
+.easy h3{
+    font-size: 25px;
+    font-family: "Poppins", serif;
+    font-weight: 600;
+    color: #29313D;
+    padding-top: 20px;
+}
+.easy p{
+    font-size: 13px;
+    font-family: "Nunito", serif;
+    font-weight: 400;
+    color: #29313D;
+}
+.easy a{
+    font-size: 15px;
+    color: #29313D;
+    font-family: "Nunito", serif;
+    font-weight: 700;
+}
+
+/* service part end  */
+
+/* launch part start  */
+.launchpart{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.launch img{
+    height: 500px;
+    width: 400px;
+}
+.launchhh h3{
+    font-size: 38px;
+    font-family: "Poppins", serif;
+    font-weight: 600;
+    color: #29313D;
+    padding-top: 35px;
+    padding-bottom: 10px;
+    
+}
+.launchhh p{
+    font-size: 23px;
+    color: #29313D;
+    font-family: "Nunito", serif;
+   font-weight: 400;
+}
+.Carefully{
+    display: flex;
+ 
+}
+    
+.carefullayy h3{
+    font-size: 18px;
+    font-family: "Poppins", serif;
+    font-weight: 600;
+    color: #29313D;
+}
+.carefullayy p{
+    font-size: 11px;
+    font-family: "Nunito", serif;
+    font-weight: 400;
+    color: #29313D;
+}
+.carefullayy a{
+    font-size: 15px;
+    font-family: "Nunito", serif;
+    font-weight: 700;
+    color: #29313D;
+}
+/* launch part end */
+
+/* app showcase part start */
+.wjkfherh{
+    text-align: center;
+}
+.jhwfgrgth{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.appshowcase h3{
+    font-size: 40px;
+    font-family: "Poppins", serif;
+    font-weight: 600;
+    padding-top: 100px;
+    padding-bottom: 30px;
+}
+.appshowcase p{
+    font-size: 15px;
+    font-family: "Nunito", serif;
+    font-weight: 400;
+    padding-bottom: 30px;
+}
+.appshowcaseimage img{
+    height: 500px;
+    width: 325px;
+    
+}
+/* app showcase part enf */
